@@ -3,8 +3,7 @@
 Hi 👋, I am **Nelson** an enthusiastic and ambitious software engineer. I specialize in Full-Stack Development with Java, Python, React, and DevOps with knowledge of AWS, Docker, Kubernetes, and Terraform. I love to network, join new communities, and add value ✨
 
 <div>
-<details>
-  🧑 More about me
+  <summary>🧑 More about me</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
 
@@ -18,6 +17,6 @@ Hi 👋, I am **Nelson** an enthusiastic and ambitious software engineer. I spec
 
 - 📫 Reach me out at **peternelson063@gmail.com**
 
-</details>
+</div>
   
 </p>
