@@ -4,7 +4,7 @@ Hi 👋, I am **Nelson** an enthusiastic and ambitious software engineer. I spec
 
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  🧑 More about me
 
 - 🔭 I’m currently on a journey to build **great** things
 
