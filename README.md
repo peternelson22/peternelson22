@@ -12,7 +12,7 @@ Hi 👋, I am **Nelson** an enthusiastic and ambitious software engineer. I spec
 
 - 🤝 I’m open to **opportunities!**
 
-- 👨‍💻 My Linkedin profile [Linkedin]((https://www.linkedin.com/in/nelson-tanko-76b623249/))
+- 👨‍💻 My profile [Linkedin](https://www.linkedin.com/in/nelson-tanko-76b623249/)
 
 - 💬 Ask me about **software engineering, devops, and community management**
 
