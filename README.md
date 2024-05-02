@@ -1,6 +1,6 @@
 <p>
   
-Hi 👋, I am **Nelson** an enthusiastic and ambitious software engineer. I specialize in Full-Stack Development with Java, Python, React, and DevOps with knowledge of AWS, Docker, Kubernetes, and Terraform. I love to network, join new communities, and add value ✨
+Hi 👋, I am **Nelson Wisdom Tanko** an enthusiastic and ambitious software engineer. I specialize in Full-Stack Development with Java, Python, Javascript, SQL, React, Spring Boot, Django, AWS, Docker, Kubernetes, and Terraform. I love to network, join new communities, and add value ✨
 
 <div>
   <summary>🧑 More about me</summary>
