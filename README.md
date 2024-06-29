@@ -11,11 +11,11 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 
 - 🤝 I’m open to **opportunities!**
 
-- 👨‍💻 My profile [Linkedin](https://www.linkedin.com/in/nelson-tanko-76b623249/)
+- 👨‍💻 My [Linkedin](https://www.linkedin.com/in/nelson-tanko-76b623249/) profile
 
 - 💬 Ask me about **Software engineering especially relating to Java, devops, and community management**
 
-- 📫 Reach me out at **peternelson063@gmail.com**
+- 📫 Reach me at **peternelson063@gmail.com**
 
 </div>
   
@@ -23,7 +23,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 <!-- ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github) -->
 <div align="center">
   
-  ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs,issues&show_icons=true&theme=gruvbox&rank_icon=github)
+  ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=issues&show_icons=true&theme=gruvbox&rank_icon=github)
 </div>
 
 <div align="center">
