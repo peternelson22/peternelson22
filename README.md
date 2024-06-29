@@ -20,9 +20,10 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 </div>
   
 </p>
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github)
-
-[![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github) -->
+<div align="center">
+  ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs,issues&show_icons=true&theme=gruvbox&rank_icon=github)
+</div>
 
 <div align="center">
 
