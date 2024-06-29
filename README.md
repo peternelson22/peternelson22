@@ -21,10 +21,11 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
   
 </p>
 ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,typesceipt,mysql,mongodb,postgres,docker,aws,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,typescript,mysql,mongodb,postgres,docker,aws,kafka)](https://skillicons.dev)
 
 </div>
