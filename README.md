@@ -22,6 +22,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 </p>
 <!-- ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github) -->
 <div align="center">
+  
   ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs,issues&show_icons=true&theme=gruvbox&rank_icon=github)
 </div>
 
