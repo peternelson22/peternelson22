@@ -1,5 +1,5 @@
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there,%2C+I+am+Nelson+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+I+am+Nelson+%F0%9F%91%8B" alt="Typing SVG" /></a><br/>
 An enthusiastic and ambitious software engineer. Let's talk about Java, Python, Typescript, SQL, React, Spring Boot, AWS, Docker, Kubernetes, Terraform, kafka. I love to network, join new communities, and add value ✨
 
 <div>
@@ -21,6 +21,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
   
 </p>
 ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=prs&show_icons=true&theme=gruvbox&rank_icon=github)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
