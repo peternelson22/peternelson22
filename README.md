@@ -25,7 +25,7 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
   
   ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=peternelson22&hide=issues&show_icons=true&theme=gruvbox&rank_icon=github)
 </div>
-## Technology Stack
+**Technology Stack**
 
 <div align="center">
 
