@@ -1,6 +1,6 @@
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4600&pause=2500&color=FFC43D&width=435&lines=Hi+there%2C+I+am+Nelson+%F0%9F%91%8B" alt="Typing SVG" /></a><br/>
-An enthusiastic and ambitious software engineer. Let's talk about Java, Python, Typescript, SQL, React, Spring Boot, AWS, Docker, Kubernetes, Terraform, kafka. I love to network, join new communities, and add value ✨
+An enthusiastic and ambitious software engineer. Let's talk about Java, Python, Typescript, SQL, React, Spring Boot, Django, AWS, Docker, Kubernetes, Terraform, kafka. I love to network, join new communities, and add value ✨
 
 <div>
   <summary>🧑 More about me</summary>
@@ -29,6 +29,6 @@ An enthusiastic and ambitious software engineer. Let's talk about Java, Python, 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,react,typescript,mysql,mongodb,postgres,docker,aws,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,django,react,typescript,mysql,postgres,docker,aws,kafka)](https://skillicons.dev)
 
 </div>
